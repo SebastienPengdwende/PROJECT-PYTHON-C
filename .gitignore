@@ -1,0 +1,64 @@
+# Fichiers temporaires Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Fichiers temporaires Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Fichiers de données et exports
+CleanCampusManager/data/exports/
+*.log
+*.tmp
+
+# Fichiers de compilation C
+*.exe
+*.o
+*.obj
+*.out
+
+# Fichiers de projet Dev-C++
+*.dev
+*.layout
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+
+# Fichiers de configuration personnelle
+.env
+config.ini
+
+# IDE et éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Fichiers Word temporaires
+~$*.docx
+~$*.doc
+
+# Fichiers pip
+get-pip.py 

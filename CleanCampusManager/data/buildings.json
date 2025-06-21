@@ -1,0 +1,466 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Building 1",
+    "chief_id": null,
+    "blocks": [
+      "A",
+      "B"
+    ],
+    "rooms_per_block": 4,
+    "people_per_room": 2,
+    "students": [],
+    "room_assignments": {},
+    "cleaning_groups": [],
+    "current_schedule": {},
+    "custom_cleaning_areas": [
+      "Rooms",
+      "Showers",
+      "Kitchen",
+      "Living Room",
+      "Terrace"
+    ],
+    "group_formation_rules": {
+      "cross_block_cleaning": false,
+      "group_size": 4,
+      "rotation_frequency": 3
+    },
+    "overall_completion_rate": 0.0,
+    "last_schedule_update": "2025-06-21T12:26:41.215569"
+  },
+  "2": {
+    "id": 2,
+    "name": "Building 2",
+    "chief_id": null,
+    "blocks": [
+      "A",
+      "B"
+    ],
+    "rooms_per_block": 4,
+    "people_per_room": 2,
+    "students": [],
+    "room_assignments": {},
+    "cleaning_groups": [],
+    "current_schedule": {},
+    "custom_cleaning_areas": [
+      "Rooms",
+      "Showers",
+      "Kitchen",
+      "Living Room",
+      "Terrace"
+    ],
+    "group_formation_rules": {
+      "cross_block_cleaning": false,
+      "group_size": 4,
+      "rotation_frequency": 3
+    },
+    "overall_completion_rate": 0.0,
+    "last_schedule_update": "2025-06-21T12:26:41.215589"
+  },
+  "3": {
+    "id": 3,
+    "name": "Building 3",
+    "chief_id": null,
+    "blocks": [
+      "A",
+      "B"
+    ],
+    "rooms_per_block": 4,
+    "people_per_room": 2,
+    "students": [],
+    "room_assignments": {},
+    "cleaning_groups": [],
+    "current_schedule": {},
+    "custom_cleaning_areas": [
+      "Rooms",
+      "Showers",
+      "Kitchen",
+      "Living Room",
+      "Terrace"
+    ],
+    "group_formation_rules": {
+      "cross_block_cleaning": false,
+      "group_size": 4,
+      "rotation_frequency": 3
+    },
+    "overall_completion_rate": 0.0,
+    "last_schedule_update": "2025-06-21T12:26:41.215602"
+  },
+  "4": {
+    "id": 4,
+    "name": "Building 4",
+    "chief_id": null,
+    "blocks": [
+      "A",
+      "B"
+    ],
+    "rooms_per_block": 4,
+    "people_per_room": 2,
+    "students": [],
+    "room_assignments": {},
+    "cleaning_groups": [],
+    "current_schedule": {},
+    "custom_cleaning_areas": [
+      "Rooms",
+      "Showers",
+      "Kitchen",
+      "Living Room",
+      "Terrace"
+    ],
+    "group_formation_rules": {
+      "cross_block_cleaning": false,
+      "group_size": 4,
+      "rotation_frequency": 3
+    },
+    "overall_completion_rate": 0.0,
+    "last_schedule_update": "2025-06-21T12:26:41.215608"
+  },
+  "5": {
+    "id": 5,
+    "name": "Building 5",
+    "chief_id": null,
+    "blocks": [
+      "A",
+      "B"
+    ],
+    "rooms_per_block": 4,
+    "people_per_room": 2,
+    "students": [],
+    "room_assignments": {},
+    "cleaning_groups": [],
+    "current_schedule": {},
+    "custom_cleaning_areas": [
+      "Rooms",
+      "Showers",
+      "Kitchen",
+      "Living Room",
+      "Terrace"
+    ],
+    "group_formation_rules": {
+      "cross_block_cleaning": false,
+      "group_size": 4,
+      "rotation_frequency": 3
+    },
+    "overall_completion_rate": 0.0,
+    "last_schedule_update": "2025-06-21T12:26:41.215616"
+  },
+  "6": {
+    "id": 6,
+    "name": "Building 6",
+    "chief_id": null,
+    "blocks": [
+      "A",
+      "B"
+    ],
+    "rooms_per_block": 4,
+    "people_per_room": 2,
+    "students": [],
+    "room_assignments": {},
+    "cleaning_groups": [],
+    "current_schedule": {},
+    "custom_cleaning_areas": [
+      "Rooms",
+      "Showers",
+      "Kitchen",
+      "Living Room",
+      "Terrace"
+    ],
+    "group_formation_rules": {
+      "cross_block_cleaning": false,
+      "group_size": 4,
+      "rotation_frequency": 3
+    },
+    "overall_completion_rate": 0.0,
+    "last_schedule_update": "2025-06-21T12:26:41.215622"
+  },
+  "7": {
+    "id": 7,
+    "name": "Building 7",
+    "chief_id": null,
+    "blocks": [
+      "A",
+      "B"
+    ],
+    "rooms_per_block": 4,
+    "people_per_room": 2,
+    "students": [],
+    "room_assignments": {},
+    "cleaning_groups": [],
+    "current_schedule": {},
+    "custom_cleaning_areas": [
+      "Rooms",
+      "Showers",
+      "Kitchen",
+      "Living Room",
+      "Terrace"
+    ],
+    "group_formation_rules": {
+      "cross_block_cleaning": false,
+      "group_size": 4,
+      "rotation_frequency": 3
+    },
+    "overall_completion_rate": 0.0,
+    "last_schedule_update": "2025-06-21T12:26:41.215628"
+  },
+  "8": {
+    "id": 8,
+    "name": "Building 8",
+    "chief_id": null,
+    "blocks": [
+      "A",
+      "B"
+    ],
+    "rooms_per_block": 4,
+    "people_per_room": 2,
+    "students": [],
+    "room_assignments": {},
+    "cleaning_groups": [],
+    "current_schedule": {},
+    "custom_cleaning_areas": [
+      "Rooms",
+      "Showers",
+      "Kitchen",
+      "Living Room",
+      "Terrace"
+    ],
+    "group_formation_rules": {
+      "cross_block_cleaning": false,
+      "group_size": 4,
+      "rotation_frequency": 3
+    },
+    "overall_completion_rate": 0.0,
+    "last_schedule_update": "2025-06-21T12:26:41.215633"
+  },
+  "9": {
+    "id": 9,
+    "name": "Building 9",
+    "chief_id": null,
+    "blocks": [
+      "A",
+      "B"
+    ],
+    "rooms_per_block": 4,
+    "people_per_room": 2,
+    "students": [],
+    "room_assignments": {},
+    "cleaning_groups": [],
+    "current_schedule": {},
+    "custom_cleaning_areas": [
+      "Rooms",
+      "Showers",
+      "Kitchen",
+      "Living Room",
+      "Terrace"
+    ],
+    "group_formation_rules": {
+      "cross_block_cleaning": false,
+      "group_size": 4,
+      "rotation_frequency": 3
+    },
+    "overall_completion_rate": 0.0,
+    "last_schedule_update": "2025-06-21T12:26:41.215637"
+  },
+  "10": {
+    "id": 10,
+    "name": "Building 10",
+    "chief_id": null,
+    "blocks": [
+      "A",
+      "B"
+    ],
+    "rooms_per_block": 4,
+    "people_per_room": 2,
+    "students": [],
+    "room_assignments": {},
+    "cleaning_groups": [],
+    "current_schedule": {},
+    "custom_cleaning_areas": [
+      "Rooms",
+      "Showers",
+      "Kitchen",
+      "Living Room",
+      "Terrace"
+    ],
+    "group_formation_rules": {
+      "cross_block_cleaning": false,
+      "group_size": 4,
+      "rotation_frequency": 3
+    },
+    "overall_completion_rate": 0.0,
+    "last_schedule_update": "2025-06-21T12:26:41.215642"
+  },
+  "11": {
+    "id": 11,
+    "name": "Building 11",
+    "chief_id": null,
+    "blocks": [
+      "A",
+      "B"
+    ],
+    "rooms_per_block": 4,
+    "people_per_room": 2,
+    "students": [],
+    "room_assignments": {},
+    "cleaning_groups": [],
+    "current_schedule": {},
+    "custom_cleaning_areas": [
+      "Rooms",
+      "Showers",
+      "Kitchen",
+      "Living Room",
+      "Terrace"
+    ],
+    "group_formation_rules": {
+      "cross_block_cleaning": false,
+      "group_size": 4,
+      "rotation_frequency": 3
+    },
+    "overall_completion_rate": 0.0,
+    "last_schedule_update": "2025-06-21T12:26:41.215646"
+  },
+  "12": {
+    "id": 12,
+    "name": "Building 12",
+    "chief_id": null,
+    "blocks": [
+      "A",
+      "B"
+    ],
+    "rooms_per_block": 4,
+    "people_per_room": 2,
+    "students": [],
+    "room_assignments": {},
+    "cleaning_groups": [],
+    "current_schedule": {},
+    "custom_cleaning_areas": [
+      "Rooms",
+      "Showers",
+      "Kitchen",
+      "Living Room",
+      "Terrace"
+    ],
+    "group_formation_rules": {
+      "cross_block_cleaning": false,
+      "group_size": 4,
+      "rotation_frequency": 3
+    },
+    "overall_completion_rate": 0.0,
+    "last_schedule_update": "2025-06-21T12:26:41.215655"
+  },
+  "13": {
+    "id": 13,
+    "name": "Building 13",
+    "chief_id": null,
+    "blocks": [
+      "A",
+      "B"
+    ],
+    "rooms_per_block": 4,
+    "people_per_room": 2,
+    "students": [],
+    "room_assignments": {},
+    "cleaning_groups": [],
+    "current_schedule": {},
+    "custom_cleaning_areas": [
+      "Rooms",
+      "Showers",
+      "Kitchen",
+      "Living Room",
+      "Terrace"
+    ],
+    "group_formation_rules": {
+      "cross_block_cleaning": false,
+      "group_size": 4,
+      "rotation_frequency": 3
+    },
+    "overall_completion_rate": 0.0,
+    "last_schedule_update": "2025-06-21T12:26:41.215931"
+  },
+  "14": {
+    "id": 14,
+    "name": "Building 14",
+    "chief_id": null,
+    "blocks": [
+      "A",
+      "B"
+    ],
+    "rooms_per_block": 4,
+    "people_per_room": 2,
+    "students": [],
+    "room_assignments": {},
+    "cleaning_groups": [],
+    "current_schedule": {},
+    "custom_cleaning_areas": [
+      "Rooms",
+      "Showers",
+      "Kitchen",
+      "Living Room",
+      "Terrace"
+    ],
+    "group_formation_rules": {
+      "cross_block_cleaning": false,
+      "group_size": 4,
+      "rotation_frequency": 3
+    },
+    "overall_completion_rate": 0.0,
+    "last_schedule_update": "2025-06-21T12:26:41.215939"
+  },
+  "15": {
+    "id": 15,
+    "name": "Building 15",
+    "chief_id": null,
+    "blocks": [
+      "A",
+      "B"
+    ],
+    "rooms_per_block": 4,
+    "people_per_room": 2,
+    "students": [],
+    "room_assignments": {},
+    "cleaning_groups": [],
+    "current_schedule": {},
+    "custom_cleaning_areas": [
+      "Rooms",
+      "Showers",
+      "Kitchen",
+      "Living Room",
+      "Terrace"
+    ],
+    "group_formation_rules": {
+      "cross_block_cleaning": false,
+      "group_size": 4,
+      "rotation_frequency": 3
+    },
+    "overall_completion_rate": 0.0,
+    "last_schedule_update": "2025-06-21T12:26:41.215942"
+  },
+  "16": {
+    "id": 16,
+    "name": "Building 16",
+    "chief_id": null,
+    "blocks": [
+      "A",
+      "B"
+    ],
+    "rooms_per_block": 4,
+    "people_per_room": 2,
+    "students": [],
+    "room_assignments": {},
+    "cleaning_groups": [],
+    "current_schedule": {},
+    "custom_cleaning_areas": [
+      "Rooms",
+      "Showers",
+      "Kitchen",
+      "Living Room",
+      "Terrace"
+    ],
+    "group_formation_rules": {
+      "cross_block_cleaning": false,
+      "group_size": 4,
+      "rotation_frequency": 3
+    },
+    "overall_completion_rate": 0.0,
+    "last_schedule_update": "2025-06-21T12:26:41.215945"
+  }
+}

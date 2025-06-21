@@ -1,0 +1,11 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin",
+    "name": "Administrator",
+    "email": "admin@cite.edu",
+    "created_date": "2025-06-21T12:26:41.214759",
+    "last_login": "2025-06-21T15:02:36.061879"
+  }
+}

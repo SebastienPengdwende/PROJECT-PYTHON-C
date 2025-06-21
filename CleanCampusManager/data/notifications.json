@@ -1,0 +1,20 @@
+[
+  {
+    "id": "notif_1",
+    "message": "Connexion de Administrator (Étudiant)",
+    "type": "SYSTEM_LOGIN",
+    "target_user": "admin",
+    "timestamp": "2025-06-21T12:26:53.895895",
+    "read": false,
+    "public": false
+  },
+  {
+    "id": "notif_2",
+    "message": "Login of Administrator (Student)",
+    "type": "SYSTEM_LOGIN",
+    "target_user": "admin",
+    "timestamp": "2025-06-21T15:02:36.063166",
+    "read": false,
+    "public": false
+  }
+]
